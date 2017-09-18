@@ -1,8 +1,10 @@
 ---
 layout: post
-title: "이데올로기의 숭고한 대상: 서론"
+title: "서론"
 author: "anisotropy"
 ---
+
+# 이데올로기의 숭고한 대상: 서론
 
 ### 요약과 주해
 
