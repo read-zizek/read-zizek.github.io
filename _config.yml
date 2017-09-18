@@ -2,7 +2,7 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          Tale
+title:          지젝 읽기
 paginate:       5
 baseurl:        ""
 url:            "http://read-zizek.github.io"
