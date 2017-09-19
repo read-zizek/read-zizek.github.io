@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "서론"
+title: "마르크스와 프로이트의 형식 분석"
 author: "anisotropy"
 ---
 
