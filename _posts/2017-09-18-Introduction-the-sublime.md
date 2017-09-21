@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "서론"
-author: "anisotropy"
+title: 서론
+author: anisotropy
+category: 요약
 ---
 
 # 이데올로기의 숭고한 대상: 서론
