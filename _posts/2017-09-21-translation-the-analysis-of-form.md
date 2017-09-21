@@ -3,6 +3,7 @@ layout: "post"
 title: "번역수정 | 마르크스와 프로이트의 형식 분석"
 author: "anisotropy"
 category: "번역"
+book: 이데올로기의 숭고한 
 ---
 
 ## 이데올로기의 숭고한 대상 | 마크르스와 프로이트의 형식 분석
