@@ -2,7 +2,7 @@
 layout: post
 author: anisotropy
 title: 서론
-category: 요약
+category: 
 book: "이데올로기의 숭고한 대상"
 ---
 
