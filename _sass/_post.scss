@@ -11,6 +11,13 @@
       font-style: italic;
     }
   }
+  
+  &-subtitle {
+    color: $default-shade;
+    font-family: $sans-font;
+    font-size: 1rem;
+    text-align: center;
+  }
 
   &-title {
     color: $default-shade;
