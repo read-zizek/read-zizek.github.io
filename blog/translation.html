@@ -11,6 +11,7 @@ title: 번역
       <a href="{{ post.url | prepend: site.url }}" class="catalogue-item">
         <div>
           <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%B %d, %Y" }}</time>
+          <span class="catalogue-info">{{ page.category } | { page.book }}</span>
           <h1 class="catalogue-title">{{ post.title }}</h1>
           <div class="catalogue-line"></div>
 
