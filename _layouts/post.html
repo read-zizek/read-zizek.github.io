@@ -10,9 +10,14 @@ layout: default
       <span>on&nbsp;</span><time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time>
     {% endif %}
   </div>
-  <div class="post-subtitle">
-    <span>{{ page.category }} | {{ page.book }}</span>
-  </div>
+  {% if page.category %}
+    <div class="post-subtitle">
+      <span>{{ page.category }}</span>
+      {% if page.book %}
+        <span> | {{ page.book }}</span>
+      {% endif %}
+    </div>
+  {% endif %}
   <h1 class="post-title">{{ page.title }}</h1>
   <div class="post-line"></div>
 
