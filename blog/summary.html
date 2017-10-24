@@ -13,7 +13,7 @@ title: 요약
           <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%B %d, %Y" }}</time>
           <span class="catalogue-info">{{ post.category }}</span>
           {% if post.book %}
-            <span> | {{ post.book }}</span>
+            <span class="catalogue-info"> | {{ post.book }}</span>
           {% endif %}
           <h1 class="catalogue-title">{{ post.title }}</h1>
           <div class="catalogue-line"></div>
